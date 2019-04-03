@@ -24,26 +24,26 @@ public class Phones {
        
 	Phones phone2=new Phones();
     	
-    	phone1.touchscreen=true;
-        phone1.screen=5.8;
-        phone1.memory=256;
-        phone1.brand="Android";
+    	phone2.touchscreen=true;
+        phone2.screen=5.8;
+        phone2.memory=256;
+        phone2.brand="Android";
         
-        phone1.watchMovie();
-        phone1.sendMessaje();
-        phone1.playMusic();
+        phone2.watchMovie();
+        phone2.sendMessaje();
+        phone2.playMusic();
        
         
 	Phones phone3=new Phones();
     	
-    	phone1.touchscreen=false;
-        phone1.screen=5.8;
-        phone1.memory=128;
-        phone1.brand="Nokia";
+    	phone3.touchscreen=false;
+        phone3.screen=5.8;
+        phone3.memory=128;
+        phone3.brand="Nokia";
         
-        phone1.watchMovie();
-        phone1.sendMessaje();
-        phone1.playMusic();
+        phone3.watchMovie();
+        phone3.sendMessaje();
+        phone3.playMusic();
   
 	}
 	
