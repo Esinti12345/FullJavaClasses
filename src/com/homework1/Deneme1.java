@@ -36,11 +36,15 @@ public class Deneme1 {
 		            break;
 		            
 		      
-		      
+		    
+		            
 		      
 		    }
 		
-		
+		    for (int a=1; a<100; a+=2) {
+				System.out.println(a);
+			}
+			
 		
 		
 	}
