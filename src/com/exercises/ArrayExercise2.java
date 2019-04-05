@@ -19,7 +19,7 @@ public class ArrayExercise2 {
 		//bir bileşenine aktarılabilir. 
 		
 		
-		short[] z,y ;
+		short[] z,y = null ;
 
 		z = new short[] {10,20,30};
 
