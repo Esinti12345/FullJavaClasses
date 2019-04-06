@@ -8,8 +8,6 @@ public class Car {
 	
 	public static void main(String[] args) {
 		
-
-		
 		//ClassName variable=new ClassName();
 		//1st object
 		Car car1=new Car();
@@ -24,7 +22,6 @@ public class Car {
 		car1.drive();
 		car1.reverse();
 		car1.stop();
-		
 		
 		System.out.println("-----------Second Object-------");
 

@@ -13,10 +13,7 @@ public class NestedLoopDemo {
 			}
 			
 		}
-		
-
-		
-		
+	
 
 	}
 

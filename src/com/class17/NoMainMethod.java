@@ -21,7 +21,7 @@ public class NoMainMethod {
 		
 		NoMainMethod obj=new NoMainMethod();//method body
 		
-		obj.hello();//we calling a method hello
+		obj.hello(); //we calling a method hello
 		obj.bye();
 	}
 	

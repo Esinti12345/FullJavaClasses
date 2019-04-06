@@ -9,7 +9,7 @@ public class BreakContinue {
 			
 			if (i==5) {
 			
-			break;
+				break;
 			
 			}
 			System.out.println(i);

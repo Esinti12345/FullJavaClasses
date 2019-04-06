@@ -12,6 +12,7 @@ public class Greetings {
 		obj.findLargest(2000, 664674);
 		obj.helloToInstructor("Weqas");
 		obj.helloToInstructor("Arif");
+		obj.hello();
 	}
 	
 	void helloToInstructor(String name) {//name="Awet"
