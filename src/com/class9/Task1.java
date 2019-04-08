@@ -21,16 +21,16 @@ public class Task1 {
 		a=scan.nextInt();
 		
 		
-		for (i=0; i<10; i++) {
-		
-			if(i%2==0) {
-				System.out.println(sum);
-			}if ()
-				
-				
-			}
-		}
-		
+//		for (i=0; i<10; i++) {
+//		
+//			if(i%2==0) {
+//				System.out.println(sum);
+//			}if ()
+//				
+//				
+//			}
+//		}
+//		
 		
 
 		

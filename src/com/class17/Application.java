@@ -6,15 +6,13 @@ public class Application {
 
 	    public static void main(String[] args) {
 	    	
-	        ScannerMethod scnMthd = new ScannerMethod();
-	        System.out.println(scnMthd.sum(125, 150));
+//	        ScannerMethod scnMthd = new ScannerMethod();
+//	        System.out.println(scnMthd.sum(125, 150));
 	        
 	        Application app=new Application();
-	        System.out.println(app.example6('1'));
+	        System.out.println(app.example6('1'));// try 'a'
 	        
-	        
-	        
-
+	
 	    }
 
 	    void example() {

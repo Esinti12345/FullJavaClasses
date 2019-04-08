@@ -1,5 +1,7 @@
 package com.repit;
 
+import java.util.Scanner;
+
 public class Repit72And73Strings {
 
 	public static void main(String[] args) {
@@ -21,11 +23,11 @@ public class Repit72And73Strings {
 
 		// Model Solution
 
-		String str = "boopity bop";
+		String str1 = "boopity bop";
 		int i = 10;
 
 		// write code here
-		System.out.print(str.charAt(5) + "" + str.charAt(8) + "" + str.charAt(1) + "" + str.charAt(i));
+		System.out.print(str1.charAt(5) + "" + str1.charAt(8) + "" + str1.charAt(1) + "" + str1.charAt(i));
 
 		// 73. Note: Create a main Method and Scanner class
 
@@ -35,10 +37,10 @@ public class Repit72And73Strings {
         //For example, if the input is "banana", your output should be "The first 3 letters of banana is ban"
 
 		Scanner scan=new Scanner(System.in);
-	    String str="banana";
-	    str=scan.nextLine();
+	    String str2="banana";
+	    str2=scan.nextLine();
 	    
-	    System.out.println("The first 3 letters of "+ str+" is "+str.substring(0, 3));
+	    System.out.println("The first 3 letters of "+ str2+" is "+str2.substring(0, 3));
 	    
 	    
 	    //Model Solution
