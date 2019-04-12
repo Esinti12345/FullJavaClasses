@@ -7,7 +7,7 @@ public class AccessModifiers1 {
 
 	public static void main(String[] args) {
 		AccessModifiers1 obj=new AccessModifiers1();
-		obj.reverseString(str)
+		obj.reverseString(str);
 		
 	}
 	

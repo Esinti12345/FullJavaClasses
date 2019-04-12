@@ -6,7 +6,7 @@ public class TestInstanceVariables {
 		
 		InstanceVariables obj=new InstanceVariables() ;
 		
-		
+		 System.out.println(obj.name);//InstanceVariables classinda yontemi private tan kurtarirsan erorden kurtulur.
 		
 		
 	}
