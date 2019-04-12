@@ -63,7 +63,8 @@ public class InformationAboutPackageAndClasses {
 //
 //
 //			Answer :
-//			Because, Class-A itself has been defined with default access modifier. That means Class-A can be instantiated within the package in which it is defined. It can not be instantiated outside the package, even though it has public constructor.
+//			Because, Class-A itself has been defined with default access modifier. That means Class-A can be 
+	// instantiated within the package in which it is defined. It can not be instantiated outside the package, even though it has public constructor.
 //
 //
 //

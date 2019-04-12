@@ -32,6 +32,8 @@
 			
 			
 		}
+		
+		
 		void askHowAreYou(String name) {// parameter
 			System.out.println("How are you " + name);
 		}
@@ -39,6 +41,8 @@
 			System.out.println("I am inside a method");
 			return "Thursday";
 		}
+		
+		
 
 		void findLargestNum(int a, int b) {
 
@@ -48,6 +52,8 @@
 				System.out.println("B is largar than A");
 			}
 		}
+		
+		
 		int findLargestNum1(int a, int b) {
 
 			if (a > b) {
